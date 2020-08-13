@@ -2,7 +2,7 @@
 	"name": "bio-dark-midnight-theme",
 	"displayName": "Bio Dark Midnight",
 	"description": "A super-cool dark theme for VS Code by studio.bio inspired by Oceanic Next and Solarized Dark. Optimized for JavaScript (React), PHP, HTML, and Sass/SCSS.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "studiobio",
 	"engines": {
 		"vscode": "^1.28.0"
@@ -38,5 +38,10 @@
 				"path": "./themes/studio.bio-Bio-Dark-Midnight-color-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "c1889f70-1860-4cfc-bbed-1d1915912ef5",
+		"publisherId": "5e0e2c6a-99c8-4b25-917a-8734b4ddd2c7",
+		"publisherDisplayName": "studiobio"
 	}
 }

@@ -13,22 +13,22 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
-
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/joshuaiz/bio-dark-theme" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/joshuaiz/bio-dark-theme" />
-
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/joshuaiz/bio-dark-theme" />
-
-
-
-
+      
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/joshuaiz/bio-dark-midnight-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/joshuaiz/bio-dark-midnight-theme" />
+        
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/joshuaiz/bio-dark-midnight-theme" />
+        
+      
+      
+      
       <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#1E242E" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
-
-
+      
+      
     </Properties>
-
+    
     <Icon>extension/studio_bio_logo.png</Icon>
   </Metadata>
   <Installation>
